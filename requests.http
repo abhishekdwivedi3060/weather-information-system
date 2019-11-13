@@ -1,0 +1,11 @@
+GET http://localhost:8080/weather/?city=Delhi
+
+###
+
+GET http://localhost:8080/weather/?lat=18.52&lon=73.85
+
+###
+GET http://localhost:8080/weather/?zip=422101
+
+###
+
